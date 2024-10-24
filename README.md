@@ -51,7 +51,7 @@ Here's a snippet of the chatbot code used in this example:
 )
 ```
 
-You can find the full code in the `bot.yooz` file. Save this code in a file and explore the capabilities of Yooz.
+You can find the full code in the `AboutCountry.yooz` file. Save this code in a file and explore the capabilities of Yooz.
 
 ## 🎯 Goals of This Project
 
@@ -60,7 +60,7 @@ The main goal is to illustrate the capabilities of the Yooz language for Persian
 ## 🚀 How to Get Involved
 
 1. **Clone this repository** and explore the code.
-2. **Save the sample code** in a file called `bot.yooz`.
+2. **Save the sample code** in a file called `AboutCountry.yooz`.
 3. **Review the syntax** to understand how interactions are defined in Yooz.
 4. **Provide feedback** by opening issues or discussing improvements.
 
@@ -76,11 +76,10 @@ This project is part of a broader mission to increase the popularity of the Yooz
 
 ## 📧 Contact
 
-For questions, suggestions, or contributions, please open an issue in this repository or contact the creator through GitHub.
+For questions, suggestions, or contributions, please open an issue in this repository or contact the creator through [Github Page](github.com/yooz-lang).
 
 Thank you for your support! Together, we can make the Yooz language a powerful tool for Persian NLP.
 ```
 
 ---
 
-این README به طور خاص برای نمونه کدی که نوشتم متمرکز شده و کاربران رو تشویق به آزمایش و مشارکت می‌کنه. اگر تغییرات خاصی می‌خوای یا بخشی رو دقیق‌تر می‌خواهی توضیح بدم، حتماً بهم بگو!
