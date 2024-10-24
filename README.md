@@ -76,7 +76,7 @@ This project is part of a broader mission to increase the popularity of the Yooz
 
 ## 📧 Contact
 
-For questions, suggestions, or contributions, please open an issue in this repository or contact the creator through [Github Page](github.com/yooz-lang).
+For questions, suggestions, or contributions, please open an issue in this repository or contact the creator through [Github Page](https://github.com/yooz-lang).
 
 Thank you for your support! Together, we can make the Yooz language a powerful tool for Persian NLP.
 ```
