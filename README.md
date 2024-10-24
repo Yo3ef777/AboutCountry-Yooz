@@ -16,8 +16,7 @@ The purpose of this project is to demonstrate how the **Yooz language** can be u
 - Remembers user information for future interactions.
 - Handles nested conversations for more complex dialogues.
 
-**Note**: Currently, there is no official interpreter for Yooz. This code is for educational purposes and to showcase the language's capabilities.
-
+**NOTE**: Currently there is no official translator for Yuz. And to test your implementation, you can refer to this address and try your code [Address for test](https://yooz.run/test/index.html?code-delivery=true).
 ## 📄 Example Code
 
 Here's a snippet of the chatbot code used in this example:
